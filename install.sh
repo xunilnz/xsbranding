@@ -2,7 +2,7 @@
 clear
 echo 'Install Xunil Solutions Branding'
 echo ' '
-echo 'This requires sudo privillages to continue '
+echo 'This requires sudo privillages to continue & Plymouth must be installed'
 read -p "Are you sure? " response
 if [ "$response" != "y" ]; then
     echo 'Aborting Xunil Solutions Branding Installation'
@@ -12,10 +12,13 @@ echo ' '
 read -p "Which Distro are You Running? 1 arch, 2 mint, 3 ubuntu, 4 debian: " distro
 case $distro in
     1)
-      echo 'Installing into archlinux'
+      echo 'Installing into Arch Linux'
       sudo cp --recursive plymouth-theme-xunilsolutions/ /usr/share/plymouth/themes/xunilsolutions/
       sudo cp configs/archXunilSolutions.xml /usr/share/gnome-background-properties/
-      sudo cp backgrounds/XunilSolutionsArch.jpg /usr/share/bacgrounds/XunilSolutions.jpg
+      sudo cp backgrounds/XunilSolutionsArch.jpg /usr/share/backgrounds/XunilSolutions.jpg
+      sudo cp backgrounds/XSArchPlymouth.png /usr/share/plymouth/themes/xunilsolutions/img.png
+      sudo plymouth-set-default-theme -l
+      sudo plymouth-set-default-theme -R xunilsolutions
       exit
       ;;
     2)
