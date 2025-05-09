@@ -1,6 +1,12 @@
 #!/bin/sh
 clear
-echo 'Install Xunil Solutions Branding'
+DISTRO=$( cat /etc/*-release | tr [:upper:] [:lower:] | grep -Poi '(debian|ubuntu|red hat|centos|arch|mint)' | uniq )
+if [ -z $DISTRO ]; then
+    DISTRO='unknown'
+    echo "Unknown Distribution, can't install"
+    exit
+fi
+echo "Install Xunil Solutions Branding on $DISTRO"
 echo ' '
 echo 'This requires sudo privillages to continue & Plymouth must be installed'
 read -p "Are you sure? " response
@@ -9,9 +15,9 @@ if [ "$response" != "y" ]; then
     exit
 fi
 echo ' '
-read -p "Which Distro are You Running? 1 arch, 2 mint, 3 ubuntu, 4 debian: " distro
-case $distro in
-    1)
+#read -p "Which Distro are You Running? 1 arch, 2 mint, 3 ubuntu, 4 debian: " distro
+case $DISTRO in
+    arch)
       echo 'Installing into Arch Linux'
       sudo cp --recursive plymouth-theme-xunilsolutions/ /usr/share/plymouth/themes/xunilsolutions/
       sudo cp configs/archXunilSolutions.xml /usr/share/gnome-background-properties/
@@ -21,7 +27,7 @@ case $distro in
       sudo plymouth-set-default-theme -R xunilsolutions
       exit
       ;;
-    2)
+    mint)
       echo 'Installing for Linux Mint'
       sudo cp backgrounds/XunilSolutions.jpg /usr/share/backgrounds/
       sudo cp --recursive plymouth-theme-xunilsolutions/ /usr/share/plymouth/themes/xunilsolutions/
@@ -37,13 +43,22 @@ case $distro in
     echo 'Done..'
       exit
       ;;
-    3)
-      echo 'Installing for Ubuntu'
+    ubuntu)
+      echo 'Sorry, script for Ubuntu has not been done yet'
       exit
       ;;
-    4)
-      echo 'Installing for Debian'
+    debian)
+      echo 'Sorry, script for Debian has not been done yet'
       exit
       ;;
+    centos)
+      echo 'Sorry, script for Centos has not been done yet'
+      exit
+      ;;
+    "red hat")
+      echo 'Sorry, script for Red hat has not been done yet'
+      exit
+      ;;
+
 esac
 
