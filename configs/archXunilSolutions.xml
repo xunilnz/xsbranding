@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Xunil Solutions</name>
+        <filename>/usr/share/backgrounds/XunilSolutions.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000></scolor>
+        <artist>www.xunil.co.nz</artist>
+    </wallpaper>
+</wallpapers>

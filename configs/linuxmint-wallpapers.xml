@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+        <name>Xunil Solutions</name>
+        <filename>/usr/share/backgrounds/XunilSolutions.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000></scolor>
+        <artist>www.xunil.co.nz</artist>
+   </wallpaper>
+   <wallpaper deleted="false">
+        <name>Xmas Bokeh</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jvasek_xmas_bokeh.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jan Vasek</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Confetti</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jleung_confetti.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jason Leung</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Building</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_building.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>City</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_city.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>CPU</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_cpu.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Cubes</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_cubes.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Curved</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_curved.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Curves</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_curves.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Gold</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_gold.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Hearts</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_hearts.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pipes</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_pipes.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Square</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_square.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Stripes</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_stripes.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wall</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_wall.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Waves</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_waves.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>White</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jpanchal_white.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Jigar Panchal</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wave</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/jbaer_wave.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>John Baer</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Uzumaki</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/lzhang_uzumaki.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Li Zhang</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Curtain</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mpiwnicki_curtain.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Marek Piwnicki</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Digital Stream</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mpiwnicki_digital_stream.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Marek Piwnicki</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Light</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mpiwnicki_light.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Marek Piwnicki</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pearl</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mpiwnicki_pearl.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Marek Piwnicki</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sparkling</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mpiwnicki_sparkling.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Marek Piwnicki</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Abstract</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mfakurian_abstract.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Milad Fakurian</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Black</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mfakurian_black.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Milad Fakurian</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Heart</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mfakurian_heart.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Milad Fakurian</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Order</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mfakurian_order.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Milad Fakurian</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Silver</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/mfakurian_silver.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Milad Fakurian</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>3D Render</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/pczerwinski_3d_render.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Pawel Czerwinski</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pink</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/pczerwinski_pink.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Pawel Czerwinski</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Rose</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/pczerwinski_rose.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Pawel Czerwinski</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Black</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/porioni_black.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Philip Oroni</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dark</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/porioni_dark.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Philip Oroni</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Purple Glitter</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/porioni_purple_glitter.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Philip Oroni</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Baltic</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_baltic.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Dawn</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_dawn.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Deeper</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_deeper.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Hiding</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_hiding.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Hope</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_hope.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Pearl</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_pearl.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sweets</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_sweets.png</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Winter</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/rapciu_winter.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Rapciu</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Mountains</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/sayantan_mountains.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Sayantan Chaudhuri</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Psychedelic</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/ssinclair_psychedelic.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Sean Sinclair</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Computer Art</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/sjohnson_computer_art.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Steve Johnson</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Snow</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/sjohnson_snow.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Steve Johnson</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Sphere</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/sjohnson_sphere.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Steve Johnson</artist>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Blue</name>
+        <filename>/usr/share/backgrounds/linuxmint-wallpapers/theftiba_blue.jpg</filename>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <artist>Toa Heftiba</artist>
+    </wallpaper>
+</wallpapers>

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Xunil Solutions Boot Screen
+Description=This is a plymouth theme which simply displays the Xunil Solutions Logo
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xunilsolutions
+ScriptFile=/usr/share/plymouth/themes/xunilsolutions/xunilsolutions.script
