@@ -8,8 +8,14 @@ Please note: this is a work in progress, It has been tested on several of my own
 
 Things will get smarter as I build this out. Feel free to fork it and have a play.
 
+**Requires Plymouth to be installed and configured** 
+
+Linux Mint has Plymouth installed out of the box.
+
+Arch Linux requires you to configure it. ToDo: Automat this in the script.
+
 ## Tested on
-    Linux Mint - Cinnamon
-    Arch Linux - with Plymouth already installed and configured.
+    Linux Mint - Cinnamon, Plymouth is installed out of the box
+    Arch Linux - Requires Plymouth to be installed and configured.
 
 
