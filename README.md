@@ -12,7 +12,7 @@ Things will get smarter as I build this out. Feel free to fork it and have a pla
 
 Linux Mint has Plymouth installed out of the box.
 
-Arch Linux requires you to configure it. ToDo: Automat this in the script.
+Arch Linux requires you to configure it. ToDo: Automate this in the script.
 
 ## Tested on
     Linux Mint - Cinnamon, Plymouth is installed out of the box
