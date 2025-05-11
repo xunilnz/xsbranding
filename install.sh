@@ -15,6 +15,7 @@ if [ "$response" != "y" ]; then
     exit
 fi
 echo ' '
+# We now detect the distro so don't need to ask.
 #read -p "Which Distro are You Running? 1 arch, 2 mint, 3 ubuntu, 4 debian: " distro
 case $DISTRO in
     arch)
@@ -25,10 +26,12 @@ case $DISTRO in
       sudo cp backgrounds/XSArchPlymouth.png /usr/share/plymouth/themes/xunilsolutions/img.png
       sudo plymouth-set-default-theme -l
       sudo plymouth-set-default-theme -R xunilsolutions
+      echo 'Done...'
+      echo 'Your next reboot will show custom boot screen'
       exit
       ;;
-    mint)
-      echo 'Installing for Linux Mint'
+    mint) # todo: Detect Mint Flavor, Cinnamon, Mate, XCFE, LMDE etc..
+    echo 'Installing for Linux Mint (Cinnamon)'
       sudo cp backgrounds/XunilSolutions.jpg /usr/share/backgrounds/
       sudo cp --recursive plymouth-theme-xunilsolutions/ /usr/share/plymouth/themes/xunilsolutions/
       sudo ln -sfn /usr/share/backgrounds/XunilSolutions.jpg /usr/share/backgrounds/linuxmint/default_background.jpg
@@ -40,7 +43,8 @@ case $DISTRO in
       sudo update-alternatives --config default.plymouth
       echo 'Rebuilding bootloader to display new theme.'
       sudo update-initramfs -u
-    echo 'Done..'
+      echo 'Done..'
+      echo 'Your next reboot will show custom boot screen'
       exit
       ;;
     ubuntu)
